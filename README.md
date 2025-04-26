@@ -16,7 +16,7 @@ BENI INTERNETTEN GORDUGUNUZ VE HALIYLE GUVENMEK GUC OLDUĞU İCİN
 
 PROGRAMIN MANUEL AMELE İŞİ KURMA HALİDE, MANUEL KLASÖRÜNÜN İÇİNDE "tutorial.txt"  OLARAK YAZDIM MALA ANLATIR GIBI "tutorial.jpeg" dosyasında da yazdıklarımın görsel hali var
     
-	MANUEL HALI ISMINI BULAMADIĞIM ESKİ ARKADAŞIN YAZDIĞI VERSİYONDUR, BENİM BAZI ARKADAŞLARDA ÇALIŞMIYORDU O YÜZDEN YENİSİNİ YAZDIM MANUEL ÇALIŞMAZSA BENİMKİ CALISIYOR
+	MANUEL HALI cagritaskn VERSİYONDUR, BENİM BAZI ARKADAŞLARDA ÇALIŞMIYORDU O YÜZDEN YENİSİNİ YAZDIM MANUEL ÇALIŞMAZSA BENİMKİ CALISIYOR
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
                               PROGRAMI KURMAK ICIN "dasok_Sirkiye_Fix" dosyasını yönetici olarak calıstırmanız yeterli
