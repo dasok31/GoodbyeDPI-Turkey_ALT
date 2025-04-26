@@ -1,4 +1,7 @@
 # GoodbyeDPI-Turkey_ALT
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!RARDAN CIKARMAYI UNUTMAYIN!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 ValdikSS'in oluşturup cagritaskn'ın türkiye versiyonunu yaptığı programın alternatif bir hali diğerlerinde olan bazı sorunlara bazı kullancılılar için çözüm getiriyor
 BU PROGRAMIN (GOODBYEDPI) ASIL OLUŞTURUCUSU ValdikSS'dir kendinisine buradan ulaşabilirsiniz https://github.com/ValdikSS
 
